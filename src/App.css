@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+}
+#root {
+  height: 100%;
+  padding-top: 56px;
+}
+
+.img-container {
+  height: 300px;
+  object-fit: contain;
+}
+.cardImg {
+  object-fit: cover;
+  height: 100%;
+  object-position: center;
+}
